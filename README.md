@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0076-minimum-window-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0076-minimum-window-substring) |
 | [1635-number-of-good-pairs](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
