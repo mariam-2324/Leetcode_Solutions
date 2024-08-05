@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2470-removing-stars-from-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2470-removing-stars-from-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0020-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2470-removing-stars-from-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
