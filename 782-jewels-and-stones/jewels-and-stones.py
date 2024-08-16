@@ -1,7 +1,7 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
         count = 0
-        jewel_set = set(jewels)
+        jewel_set = jewels
 
 
         for stone in stones:
