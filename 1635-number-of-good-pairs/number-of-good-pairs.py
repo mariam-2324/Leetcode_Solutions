@@ -9,3 +9,14 @@ class Solution:
             else:
                 count[n] = 1
         return res
+
+#my 1st nested loop solutionO(n)^2
+        # x = []
+        # i, j = 0, 1
+        # for i in range(len(nums)):
+        #     for j in x:
+        #         if nums[i] == nums[j] and nums[i] < nums[j]:
+        #            x.append(j)
+        #         elif nums[i] != nums[j]:
+
+        # return x
