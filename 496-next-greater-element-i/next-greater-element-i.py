@@ -4,7 +4,7 @@ class Solution:
         nums1Idx = {n:i for i, n in enumerate(nums1)}
         res = [-1] * len(nums1)
 
-        stk = []
+        stk = []         #used stack and hashmap both in this problem.
         for i in range(len(nums2)):
             cur = nums2[i]
             while stk and cur > stk[-1]:
