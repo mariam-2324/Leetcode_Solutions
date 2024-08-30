@@ -7,7 +7,7 @@ class Solution:
         #         arr.append(i)
                 
         # return arr
-        
+
         for n in nums:
             i = abs(n) - 1
             nums[i] = - 1 * abs(nums[i])
