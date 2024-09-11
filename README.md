@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0496-next-greater-element-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0496-next-greater-element-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -253,4 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0459-repeated-substring-pattern) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
