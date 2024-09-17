@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0940-fruit-into-baskets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0594-longest-harmonious-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0594-longest-harmonious-subsequence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
