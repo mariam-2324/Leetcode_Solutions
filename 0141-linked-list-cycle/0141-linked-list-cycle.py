@@ -15,11 +15,3 @@ class Solution:
                 return True
 
         return False    
-
-
-
-
-
-
-        # T.C = O(n)
-        # S.T = O(1)
