@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0940-fruit-into-baskets) |
+| [1256-rank-transform-of-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0940-fruit-into-baskets) |
+| [1256-rank-transform-of-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1635-number-of-good-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0594-longest-harmonious-subsequence) |
+| [1256-rank-transform-of-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2210-find-target-indices-after-sorting-array) |
