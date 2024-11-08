@@ -12,5 +12,3 @@ class Solution:
                 curr.next = curr.next.next
             curr = curr.next
         return head
-
-        
