@@ -1,6 +1,6 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        s,e = 1, n
+        s, e = 1, n
         res = 0
 
         while s <= e:
@@ -12,5 +12,4 @@ class Solution:
             else:
                 s = mid + 1
                 res = max(res, mid)
-                
         return res
