@@ -5,7 +5,7 @@ class Solution:
         start = nums[0]
         end = nums[0]
         res =[]
-        for i in range(1,len(nums),1):
+        for i in range(1,len(nums)):
             print(i)
             if nums[i] != nums[i-1] +1:
                 if start == end:
@@ -19,6 +19,6 @@ class Solution:
                 
         if start!=end and f'{start}->{end}' not in res:
             res.append(f'{start}->{end}')
-        elif f'{end}' not in res:
+        elif f'{start}' not in res:
             res.append(f'{start}')
         return res
