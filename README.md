@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2427-first-letter-to-appear-twice) |
+| [2434-design-a-number-container-system](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2434-design-a-number-container-system) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2434-design-a-number-container-system](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0232-implement-queue-using-stacks) |
+| [2434-design-a-number-container-system](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/0948-sort-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/mariam-2324/https-github.com-mariam-2324-Leetcode_Solutions1/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
